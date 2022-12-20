@@ -1,5 +1,12 @@
 # rubiksRace
-A sliding puzzle based on the board game Rubik's Race. Implemented with pygame.
+A sliding puzzle based on the board game Rubik's Race. It is an object-oriented game implemented with pygame.
+
+## Getting Started
+1. Get Python 3.x and clone this repository
+2. Get [pip](https://www.makeuseof.com/tag/install-pip-for-python/), then install pygame:\
+    ```$ pip install pygame```
+3. Run the game:\
+    ```$ python graphics.py```
 
 ## Play
 - Click on tiles to move them around
